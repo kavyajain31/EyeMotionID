@@ -1,0 +1,16 @@
+dataset,seq_id,label,n_frames,img_size
+MRL_Eye,mrl_00000,1,10,64x64
+MRL_Eye,mrl_00001,1,10,64x64
+MRL_Eye,mrl_00002,1,10,64x64
+MRL_Eye,mrl_00003,1,10,64x64
+MRL_Eye,mrl_00004,1,10,64x64
+MPIIGaze,mpi_00000,0,10,64x64
+MPIIGaze,mpi_00001,0,10,64x64
+MPIIGaze,mpi_00002,0,10,64x64
+MPIIGaze,mpi_00003,0,10,64x64
+MPIIGaze,mpi_00004,0,10,64x64
+OpenEDS,oed_00000,0,10,64x64
+OpenEDS,oed_00001,0,10,64x64
+OpenEDS,oed_00002,0,10,64x64
+OpenEDS,oed_00003,0,10,64x64
+OpenEDS,oed_00004,0,10,64x64
