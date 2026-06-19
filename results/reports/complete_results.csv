@@ -1,0 +1,6 @@
+Experiment,Users,Accuracy (%),Precision (%),Recall (%),F1-Score (%),Baseline (%)
+CNN+LSTM (15 users),15,98.89,98.92,98.89,98.88,6.67
+CNN+GRU (15 users),15,98.22,98.21,98.22,98.21,6.67
+MobileNetV2+LSTM (15 users),15,99.56,99.55,99.56,99.55,6.67
+MobileNetV2+GRU (15 users),15,100.0,100.0,100.0,100.0,6.67
+CNN+LSTM (51 users) ★,51,95.88,96.52,95.88,95.76,1.96
